@@ -2,6 +2,8 @@ With Hawaii’s traffic being the second worst in the nation and limited parking
 
 UH OneRide provides a solution to those looking for a transportation alternative, offering conveinence, safety, and a great opportunity to socialize with like people. Be a Rider, Driver, or both and easily coordinate carpools for everyday classes, or one-time special event. Our service is exclusive to members of the UH system; students, faculty, staff from all campuses can participate! 
 
+[Look at our code!](https://github.com/UH-OneRide/uh-oneride)
+
 <img src="doc/uhoneride-home.png" alt="Landing Mockup" width="800" height="600"/>
 
 ## How It Works 
@@ -24,11 +26,29 @@ If you have an issue with another user or find a bug in our system, you can fill
 ## Development and Progress
 ### Milestone 1 (Due Nov 21)
 
-__*WIP*__
+Milestone 1 is the only milestone where we have specific goals. We are to complete the landing page and mockups of at least 4 other pages. 
+
+The Offer Page is where a User goes to post a ride offer. Currently a user can post information for a one-way trip.
+
+<img src="doc/uhoneride-offer-m1.PNG" alt="Offer M1"/>
+
+The Find Page is where Users can search through the Offers. So far, this feature is fairly lacking, as there is no way to get the contact information of the Driver. 
+
+<img src="doc/uhoneride-find-m1.PNG" alt="Find M1"/>
+
+The Contact Page is where a User can fill out a Contact Form to talk to one of the admins about a rider complaint or bug.
+
+<img src="doc/uhoneride-contact-m1.PNG" alt="Contact M1"/>
+
+Our goal for next milestone is to have a completely functional, but not fully featured, website! The experience delivered by our website should be very similar to what it would be upon release. This includes writing User Reviews, editing their Profiles and ride Offers, and for admins to view and address Contact Forms.
+
+[See our GitHub project board for Milestone 1 here!](https://github.com/UH-OneRide/uh-oneride/projects/1)
 
 ### Milestone 2 (Due Dec 5)
 
 __*WIP*__
+
+[See our GitHub project board for Milestone 2 here!](https://github.com/UH-OneRide/uh-oneride/projects/2)
 
 ### Milestone 3 (Due Dec 12)
 
