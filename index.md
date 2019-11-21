@@ -28,17 +28,22 @@ If you have an issue with another user or find a bug in our system, you can fill
 
 Milestone 1 is the only milestone where we have specific goals. We are to complete the landing page and mockups of at least 4 other pages. 
 
-The Offer Page is where a User goes to post a ride offer. Currently a user can post information for a one-way trip.
+<img src="doc/uhoneride-home1.jpg" alt="Home M1"/>
 
-<img src="doc/uhoneride-offer-m1.PNG" alt="Offer M1"/>
+The Offer Page is where a User goes to post a ride offer. Currently a user can post information for a one-way trip.
+<img src="doc/uhoneride-offer1.jpg" alt="Offer M1"/>
 
 The Find Page is where Users can search through the Offers. So far, this feature is fairly lacking, as there is no way to get the contact information of the Driver. 
 
-<img src="doc/uhoneride-find-m1.PNG" alt="Find M1"/>
+<img src="doc/uhoneride-find1.jpg" alt="Find M1"/>
 
 The Contact Page is where a User can fill out a Contact Form to talk to one of the admins about a rider complaint or bug.
 
-<img src="doc/uhoneride-contact-m1.PNG" alt="Contact M1"/>
+<img src="doc/uhoneride-contact1.jpg" alt="Contact M1"/>
+
+<img src="doc/uhoneride-login1.jpg" alt="Login M1"/>
+
+<img src="doc/uhoneride-signup1.jpg" alt="Signup M1"/>
 
 Our goal for next milestone is to have a completely functional, but not fully featured, website! The experience delivered by our website should be very similar to what it would be upon release. This includes writing User Reviews, editing their Profiles and ride Offers, and for admins to view and address Contact Forms.
 
