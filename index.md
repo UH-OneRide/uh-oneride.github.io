@@ -36,7 +36,7 @@ The Offer Page is where a User goes to post a ride offer. Currently a user can p
 
 The Find Page is where Users can search through the Offers. So far, this feature is fairly lacking, as there is no way to get the contact information of the Driver. 
 
-<img src="doc/uhoneride-find1.jpg" alt="Find M1"/>
+<img src="doc/honeride-find-m1.PNG" alt="Find M1"/>
 
 The Contact Page is where a User can fill out a Contact Form to talk to one of the admins about a rider complaint or bug.
 
