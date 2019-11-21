@@ -3,6 +3,7 @@ With Hawaii’s traffic being the second worst in the nation and limited parking
 UH OneRide provides a solution to those looking for a transportation alternative, offering conveinence, safety, and a great opportunity to socialize with like people. Be a Rider, Driver, or both and easily coordinate carpools for everyday classes, or one-time special event. Our service is exclusive to members of the UH system; students, faculty, staff from all campuses can participate! 
 
 [Look at our code!](https://github.com/UH-OneRide/uh-oneride)
+[View the Website!](http://uh-oneride.meteorapp.com/)
 
 <img src="doc/uhoneride-home.png" alt="Landing Mockup" width="800" height="600"/>
 
