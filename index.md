@@ -1,7 +1,7 @@
 ## UH OneRide "Commute Smart"
 
-* [Look at our code!] https://github.com/UH-OneRide/uh-oneride
-* [View the website!] http://uh-oneride.meteorapp.com/
+* [Look at our code!] (https://github.com/UH-OneRide/uh-oneride)
+* [View the website!] (http://uh-oneride.meteorapp.com/)
 
 ## Table of Contents
 
@@ -14,16 +14,16 @@
 * [Development and Progress](#development-and-progress)
 * [Contributors](#contributors)
 
-## Goals
+## GOALS
 
-## Overview
+## OVERVIEW
 With Hawaii’s traffic being the second worst in the nation and limited parking space on UH campus, it can be very difficult to get onto campus via car. Sure there’s rideshare programs like Uber and Lyft, but for some it can feel unsafe; riding with strangers who you know nothing about. Not to mention the environmental impact caused by all the cars going to and from just for a single student, there must be a better solution to this. Of course there is : carpooling is a great solution to these problems. 
 
 UH OneRide provides a solution to those looking for a transportation alternative, offering conveinence, safety, and a great opportunity to socialize with like people. Be a Rider, Driver, or both and easily coordinate carpools for everyday classes, or one-time special event. Our service is exclusive to members of the UH system; students, faculty, staff from all campuses can participate! 
 
 
 
-## User Guide 
+## USER GUIDE 
 
 ### Landing Page
 <img src="doc/uhoneride_home.jpg" alt="Landing Page" width="800"/>
@@ -56,7 +56,7 @@ You can request to be a Driver by providing additional information upon sign up 
 If you have an issue with another user or find a bug in our system, you can fill out a form. A site admin will review the form and act accordingly. 
 
 
-## Development and Progress
+## DEVELOPMENT AND PROGRESS 
 
 ### Milestone 1 (Due Nov 21)
 
@@ -72,5 +72,10 @@ Milestone 1 is the only milestone where we have specific goals. We are to comple
 [See our GitHub project board for Milestone 2 here!](https://github.com/UH-OneRide/uh-oneride/projects/3)
 
 ## Contributors
+
+* [Hanna Park](#https://hannaparkUH.github.io/)
+* [Kayla Kwock](#https://kayla-kwock.github.io/)
+
+
 
 
