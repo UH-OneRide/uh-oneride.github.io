@@ -1,23 +1,18 @@
-##UH OneRide "Commute Smart"
+## UH OneRide "Commute Smart"
 
-[Look at our code!] (https://github.com/UH-OneRide/uh-oneride)
+* [Look at our code!] https://github.com/UH-OneRide/uh-oneride
+* [View the website!] http://uh-oneride.meteorapp.com/
 
-[View the website!] (http://uh-oneride.meteorapp.com/)
+## Table of Contents
 
-
-[Goals]
-
-[Overview]
-
-[User Guide]
-
-[Developer Guide]
-
-[Community Feedback]
-
-[Development and Progress]
-
-[Contributors]
+* [Goals](#goals)
+* [Overview](#overview)
+* [Project Pages](#project-pages)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
+* [Development and Progress](#development-and-progress)
+* [Contributors](#contributors)
 
 ## Goals
 
@@ -31,21 +26,26 @@ UH OneRide provides a solution to those looking for a transportation alternative
 ## User Guide 
 
 ### Landing Page
-<img src="doc/uhoneride-home.png" alt="Landing Mockup" width="800" height="600"/>
+<img src="doc/uhoneride_home.jpg" alt="Landing Page" width="800"/>
 
 ### Register Page
+<img src="doc/uhoneride-register.jpg" alt="Register Page" width="800"/>
 First you must sign up with a valid hawaii.edu email account. Provide a name, profile image, location in which you wish to be picked up from, and some personal information like hobbies, interests, major etc.
 
 ### Member Profile
 
+
 ### Login Page
-<img src="doc/uhoneride-signin.png" alt="Login/Signup Mockup" width="800" height="600"/>
+<img src="doc/uhoneride-login.jpg" alt="Login Page" width="800"/>
 
 ### Offer a Ride
+<img src="doc/uhoneride-offer.jpg" alt="Offer a Ride" width="800"/>
 
 ### Driver Profile
+<img src="doc/uhoneride-driverprofile.jpg" alt="Driver Profile" width="800"/>
 
 ### Find a Ride
+
 By default everyone is a Rider, and can view a list of all drivers in the system. Each Driver would be represented by a card, with images, personal information, where they come from and what time, and other members of the carpool, as well as any pricing. If you find a Driver that matches your preferences, you can contact them via their UH emails.
 
 You can request to be a Driver by providing additional information upon sign up or at a later date, like car identifiers and an image of the driver's license. After review by a site admin, your application will be either approved/denied. As a Driver, you can add/remove Riders from your carpool.
@@ -57,28 +57,10 @@ If you have an issue with another user or find a bug in our system, you can fill
 
 
 ## Development and Progress
+
 ### Milestone 1 (Due Nov 21)
 
-Milestone 1 is the only milestone where we have specific goals. We are to complete the landing page and mockups of at least 4 other pages. 
-
-<img src="doc/uhoneride-home1.jpg" alt="Home M1"/>
-
-The Offer Page is where a User goes to post a ride offer. Currently a user can post information for a one-way trip.
-<img src="doc/uhoneride-offer1.jpg" alt="Offer M1"/>
-
-The Find Page is where Users can search through the Offers. So far, this feature is fairly lacking, as there is no way to get the contact information of the Driver. 
-
-<img src="doc/uhoneride-find-m1.PNG" alt="Find M1"/>
-
-The Contact Page is where a User can fill out a Contact Form to talk to one of the admins about a rider complaint or bug.
-
-<img src="doc/uhoneride-contact1.jpg" alt="Contact M1"/>
-
-<img src="doc/uhoneride-login1.jpg" alt="Login M1"/>
-
-<img src="doc/uhoneride-signup1.jpg" alt="Signup M1"/>
-
-Our goal for next milestone is to have a completely functional, but not fully featured, website! The experience delivered by our website should be very similar to what it would be upon release. This includes writing User Reviews, editing their Profiles and ride Offers, and for admins to view and address Contact Forms.
+Milestone 1 is the only milestone where we have specific goals. We are to complete the landing page and mockups of at least 4 other pages. Our goal for next milestone is to have a completely functional, but not fully featured, website! The experience delivered by our website should be very similar to what it would be upon release. This includes writing User Reviews, editing their Profiles and ride Offers, and for admins to view and address Contact Forms.
 
 [See our GitHub project board for Milestone 1 here!](https://github.com/UH-OneRide/uh-oneride/projects/1)
 
