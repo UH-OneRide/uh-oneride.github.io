@@ -39,7 +39,7 @@ First you must sign up with a valid hawaii.edu email account. Provide a name, pr
 ### Member Profile
 Once you've signed up, you can view and edit your profile. The profile contains your personal info, car info and your offers.
 
-<img src="doc/uhoneride_profile.jpg" alt="Register Page" width="800"/>
+<img src="doc/uhoneride_userprofile.jpg" alt="Member Profile" width="800"/>
 
 ### Login Page
 You need email and password to login.
@@ -54,7 +54,7 @@ After login, all users can list their offers on the website.
 ### Find a Ride
 By default everyone is a Rider, and can view a list of all drivers in the system. Each Driver would be represented by a card, with images, personal information, where they come from and what time, and other members of the carpool, as well as any pricing. If you click the "Detail" button, you can see more detail information about the carpool.
 
-<img src="doc/uhoneride_find.jpg" alt="Driver Profile" width="800"/>
+<img src="doc/uhoneride_find.jpg" alt="Find a Ride" width="800"/>
 
 ### Driver Profile
 If you find a Driver that matches your preferences, you can contact them via their UH emails. You can request to be a Driver by providing additional information upon sign up or at a later date, like car identifiers and an image of the driver's license. After review by a site admin, your application will be either approved/denied. As a Driver, you can add/remove Riders from your carpool.
