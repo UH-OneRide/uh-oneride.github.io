@@ -91,7 +91,7 @@ $ meteor npm run start
 Finally, you will be able to see the application at [http://localhost:3000](http://localhost:3000)
 
 ## COMMUNITY FEEDBACK
-We sent the [google survey](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked the 6 questions. Here is the result of the survey.
+We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked 6 questions. Here is the result of the survey.
 
 ### 1. What is your first impression of the site?
 
@@ -123,15 +123,15 @@ We sent the [google survey](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv3
 
 ### 4. Did you find the site easy to navigate?
 
-<img src="doc/survey_navigate.jpg" alt="Survey Result 4" width="500"/>
+<img src="doc/survey_navigate.png" alt="Survey Result 4" width="500"/>
 
 ### 5. Did the site give you all the relevant information needed?
 
-<img src="doc/survey_info.jpg" alt="Survey Result 5" width="500"/>
+<img src="doc/survey_info.png" alt="Survey Result 5" width="500"/>
 
 ### 6. Would you visit the site again and recommend this site to a friend?
 
-<img src="doc/survey_recommend.jpg" alt="Survey Result 6" width="500"/>
+<img src="doc/survey_recommend.png" alt="Survey Result 6" width="500"/>
 
 
 ## DEVELOPMENT AND PROGRESS 
