@@ -54,7 +54,7 @@ After login, all users can list their offers on the website.
 ### Find a Ride
 By default everyone is a Rider, and can view a list of all drivers in the system. Each Driver would be represented by a card, with images, personal information, where they come from and what time, and other members of the carpool, as well as any pricing. If you click the "Detail" button, you can see more detail information about the carpool.
 
-<img src="doc/uhoneride_find.jpg" alt="Find a Ride" width="800"/>
+<img src="doc/uhoneride-find.jpg" alt="Find a Ride" width="800"/>
 
 ### Driver Profile
 If you find a Driver that matches your preferences, you can contact them via their UH emails. You can request to be a Driver by providing additional information upon sign up or at a later date, like car identifiers and an image of the driver's license. After review by a site admin, your application will be either approved/denied. As a Driver, you can add/remove Riders from your carpool.
@@ -91,7 +91,7 @@ $ meteor npm run start
 Finally, you will be able to see the application at [http://localhost:3000](http://localhost:3000)
 
 ## COMMUNITY FEEDBACK
-We sent the [google survey](#https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked the 6 questions. Here is the result of the survey.
+We sent the [google survey](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked the 6 questions. Here is the result of the survey.
 
 ### 1. What is your first impression of the site?
 
@@ -123,9 +123,16 @@ We sent the [google survey](#https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv
 
 ### 4. Did you find the site easy to navigate?
 
+<img src="doc/survey_navigate.jpg" alt="Survey Result 4" width="500"/>
+
 ### 5. Did the site give you all the relevant information needed?
 
+<img src="doc/survey_info.jpg" alt="Survey Result 5" width="500"/>
+
 ### 6. Would you visit the site again and recommend this site to a friend?
+
+<img src="doc/survey_recommend.jpg" alt="Survey Result 6" width="500"/>
+
 
 ## DEVELOPMENT AND PROGRESS 
 
@@ -145,8 +152,8 @@ Milestone 1 is the only milestone where we have specific goals. We are to comple
 
 ## Contributors
 
-* [Hanna Park](#https://hannaparkUH.github.io/)
-* [Kayla Kwock](#https://kayla-kwock.github.io/)
+* [Hanna Park](https://hannaparkUH.github.io/)
+* [Kayla Kwock](https://kayla-kwock.github.io/)
 
 
 
