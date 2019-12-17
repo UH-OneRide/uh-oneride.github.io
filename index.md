@@ -91,6 +91,41 @@ $ meteor npm run start
 Finally, you will be able to see the application at [http://localhost:3000](http://localhost:3000)
 
 ## COMMUNITY FEEDBACK
+We sent the [google survey](#https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked the 6 questions. Here is the result of the survey.
+
+### 1. What is your first impression of the site?
+
+*"I love the idea! I wish this site was up and working for UH now. The UH community is in dire need of something like this to alleviate congestion, financial burden on students, and for environmental reasons. I drive to work in the mornings and see people waiting at the bus stop. I would be happy to give people rides if I knew they were going to UH, knew I could drop them off where I park or nearby, and had a similar time schedule."*
+
+*"Simple and clean design. Great use of color and images to make it visually interesting :)"*
+
+*"Modern look, not too crowded, easy to navigate through, and descriptive with explaining the purpose of the site."*
+
+*"clean design with nice colors, easy to navigate."*
+
+### 2. What is your biggest concern of the site?
+
+*"I would want to have drivers be reviewed by other riders, and vice versa, for safety. When I tried to hit the "find a ride" link the site kept cycling saying "getting data.""*
+
+*"When clicking the "Contact the Driver" buttons, nothing seems to happen."*
+
+*"Not sure if there is a fee required to be a rider or a driver. If it's free, maybe say that on the front page?"*
+
+### 3. If you could change one thing about this website, what would it be?
+
+*"Having highly reviewed drivers you can see and reach out to, to ask if they are willing to be your driver for your commute. The ability to see drivers or riders in your nearby area (a list within one mile, or a zone circle) to car share with for geographic convenience."*
+
+*"On the Offer page, add indicators for required fields. Each time I submitted, it would tell me only one of the fields I was missing, so I had to try submitting multiple times before I finally got all of the required fields filled out. It would be easier to know which ones I was missing if the required fields were marked."*
+
+*"Adding a page where it the user can view the rides they submitted, and possibly adding other features like driver ratings."*
+
+*"I would change the picture on the front page. The current picture is a picture of the sports field, which makes me a bit confused at the beginning to relate it to the ride service. It's also not places where you can drop off or pick up people. I would recommend to change to a picture of the main campus and have the signs (people and cars) located on actual places where people can drop off or get on a car."*
+
+### 4. Did you find the site easy to navigate?
+
+### 5. Did the site give you all the relevant information needed?
+
+### 6. Would you visit the site again and recommend this site to a friend?
 
 ## DEVELOPMENT AND PROGRESS 
 
