@@ -8,9 +8,9 @@
 * [Goals](#goals)
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
-* [Development and Progress](#development-and-progress)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
 * [Contributors](#contributors)
 
 ## GOALS
@@ -71,25 +71,6 @@ If you have an issue with another user or find a bug in our system, you can fill
 
 <img src="doc/uhoneride_contact.jpg" alt="Contact Us" width="800"/>
 
-## DEVELOPER GUIDE
-First, [install Meteor](https://www.meteor.com/install).
-
-Second, go to [https://github.com/UH-OneRide/uh-oneride](https://github.com/UH-OneRide/uh-oneride), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
-
-Then, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
-
-```
-$ meteor npm install
-```
-
-Once the libraries are installed, you can run the application by invoking the "start" script.
-
-```
-$ meteor npm run start
-```
-
-Finally, you will be able to see the application at [http://localhost:3000](http://localhost:3000)
-
 ## COMMUNITY FEEDBACK
 We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked 6 questions. Here is the result of the survey.
 
@@ -133,21 +114,43 @@ We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv
 
 <img src="doc/survey_recommend.png" alt="Survey Result 6" width="500"/>
 
+## DEVELOPER GUIDE
+First, [install Meteor](https://www.meteor.com/install).
 
-## DEVELOPMENT AND PROGRESS 
+Second, go to [https://github.com/UH-OneRide/uh-oneride](https://github.com/UH-OneRide/uh-oneride), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+
+Then, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+Once the libraries are installed, you can run the application by invoking the "start" script.
+
+```
+$ meteor npm run start
+```
+
+Finally, you will be able to see the application at [http://localhost:3000](http://localhost:3000)
+
+
+## DEVELOPMENT HISTORY 
 
 
 ### Milestone 1 (Due Nov 21)
 
-Milestone 1 is the only milestone where we have specific goals. We are to complete the landing page and mockups of at least 4 other pages. Our goal for next milestone is to have a completely functional, but not fully featured, website! The experience delivered by our website should be very similar to what it would be upon release. This includes writing User Reviews, editing their Profiles and ride Offers, and for admins to view and address Contact Forms.
+First, we create a GitHub organization and implement Issue driven project management (IDPM). After completing the landing page and mockups of at least 4 other pages, deploy our system to Galaxy.
 
 [See our GitHub project board for Milestone 1 here!](https://github.com/UH-OneRide/uh-oneride/projects/1)
 
 ### Milestone 2 (Due Dec 5)
+Our goal for Milestone 2 is to have a completely functional, but not fully featured, website! The experience delivered by our website should be very similar to what it would be upon release. This includes writing User Reviews, editing their Profiles and ride Offers, and for admins to view and address Contact Forms.
 
 [See our GitHub project board for Milestone 2 here!](https://github.com/UH-OneRide/uh-oneride/projects/2)
 
-### Milestone 3 (Due Dec 12)
+### Milestone 3 (Due Dec 17)
+Our goal for Milestone 3 is to improve the functionality of our system from Milestone M2, fix bugs and clean-up files.  Our team’s GitHub Page needs to be updated for the current version of our system following GitHub hosting guidelines. Finally, we will contact five UH community members to try out our system and get feedback.
+
 [See our GitHub project board for Milestone 2 here!](https://github.com/UH-OneRide/uh-oneride/projects/3)
 
 ## Contributors
