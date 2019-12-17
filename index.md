@@ -1,4 +1,4 @@
-## UH OneRide "Commute Smart"
+## UH OneRide
 
 * [Look at our code!](https://github.com/UH-OneRide/uh-oneride)
 * [View the website!](http://uh-oneride.meteorapp.com/)
