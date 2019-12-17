@@ -151,7 +151,7 @@ Our goal for Milestone 2 is to have a completely functional, but not fully featu
 ### Milestone 3 (Due Dec 17)
 Our goal for Milestone 3 is to improve the functionality of our system from Milestone M2, fix bugs and clean-up files.  Our team’s GitHub Page needs to be updated for the current version of our system following GitHub hosting guidelines. Finally, we will contact five UH community members to try out our system and get feedback.
 
-[See our GitHub project board for Milestone 2 here!](https://github.com/UH-OneRide/uh-oneride/projects/3)
+[See our GitHub project board for Milestone 3 here!](https://github.com/UH-OneRide/uh-oneride/projects/3)
 
 ## Contributors
 
