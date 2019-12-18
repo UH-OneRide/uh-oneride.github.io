@@ -72,7 +72,7 @@ If you have an issue with another user or find a bug in our system, you can fill
 <img src="doc/uhoneride_contact.jpg" alt="Contact Us" width="800"/>
 
 ## COMMUNITY FEEDBACK
-We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked 6 questions. Here is the result of the survey.
+We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked 6 questions. 
 
 ### 1. What is your first impression of the site?
 
