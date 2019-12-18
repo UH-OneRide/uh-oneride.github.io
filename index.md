@@ -52,7 +52,7 @@ After login, all users can list their offers on the website.
 <img src="doc/uhoneride_offer.jpg" alt="Offer a Ride" width="800"/>
 
 ### Find a Ride
-By default everyone is a Rider, and can view a list of all drivers in the system. Each Driver would be represented by a card, with images, personal information, where they come from and what time, and other members of the carpool, as well as any pricing. If you click the "Detail" button, you can see more detail information about the carpool.
+By default everyone is a Rider, and can view a list of all drivers in the system. Each Driver would be represented by a card, with images, personal information, where they come from and what time, and car information.
 
 <img src="doc/uhoneride_find.jpg" alt="Find a Ride" width="800"/>
 
