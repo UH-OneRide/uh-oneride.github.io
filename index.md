@@ -14,7 +14,7 @@
 * [Contributors](#contributors)
 
 ## GOALS
-* To let UH community know that great impact of carpooling and motivate them using the website
+* To let the UH community know that great impact of carpooling and motivate them using the website
 * To drive more traffic to the website 
 * To increase sign-in users
 * To keep an up-to-date “Offer a Ride” list 
@@ -72,7 +72,7 @@ If you have an issue with another user or find a bug in our system, you can fill
 <img src="doc/uhoneride_contact.jpg" alt="Contact Us" width="800"/>
 
 ## COMMUNITY FEEDBACK
-We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of UH community and asked 6 questions. 
+We sent [Google Survey Form](https://docs.google.com/forms/d/e/1FAIpQLScAHQq5YTv33E_0I0fZ_MuoOXnZHZy3ONNuC79tu19OX0QL4g/viewform) to 5 members of the UH community and asked 6 questions. 
 
 ### 1. What is your first impression of the site?
 
